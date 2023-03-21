@@ -18,7 +18,7 @@ New_Sample
 │       └── *.JPG
 │   ├──  labels
 └──      └── *.TXT
-          
+```          
 
 
 
